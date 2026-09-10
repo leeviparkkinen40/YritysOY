@@ -1,0 +1,20 @@
+body{
+    background-color:darkslategrey;
+}
+
+body h1{
+    color:aquamarine;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 1200;
+    text-decoration:wavy;
+}
+
+body h3{
+    color:cadetblue;
+    font-size: 120;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+label{
+    color:lightblue;
+}
